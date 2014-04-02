@@ -1,0 +1,4 @@
+Model\Article:
+    fields:
+        title:   string
+        content: string
